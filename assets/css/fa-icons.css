@@ -1,0 +1,92 @@
+.fa,
+.fas,
+.fab,
+.fa-solid {
+  margin: 0;
+  padding: 0;
+  border-radius: 25%;
+}
+
+.card-links, a {
+    color: blueviolet;
+}
+
+.fa-igloo {
+  color: var(--text);
+}
+
+.fa-user {
+  color: var(--code);
+}
+
+.fa-compass-drafting {
+  color: goldenrod;
+}
+
+.fa-wand-magic-sparkles {
+  color: cyan;
+}
+
+.fa-free-code-camp {
+  color: darkred;
+}
+
+.fa-toolbox {
+  color: red;
+}
+
+.fa-search {
+  color: dodgerblue;
+}
+
+.fa-book {
+  color: brown;
+}
+
+.fa-apple-whole {
+  color: red;
+}
+
+.fa-globe {
+  color: green;
+}
+
+.fa-laptop-code {
+  color: rgb(141, 141, 141);
+}
+
+.fa-tools {
+  color: red;
+}
+
+.fa-phone {
+  color: green;
+}
+
+.fa-paper-plane {
+  color: rgb(red, green, blue);
+}
+
+.fa-github-alt {
+  color: rgb(255, 255,255);
+}
+
+.fa-discord {
+  color: rgb(88, 101, 242);
+}
+
+.fa-youtube {
+  color:rgb(255 0 0);
+}
+
+.fa-twitch {
+  color: rgb(100, 65, 165);
+}
+
+.fa-tools {
+    color: yellow;
+}
+
+.fa-users-cog {
+    color: rgb(255, 136, 0);
+  }
